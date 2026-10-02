@@ -1,0 +1,17 @@
+# Web UI & Visualization
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# Document & PDF Processing
+pymupdf>=1.24.0
+
+# Natural Language Processing & Text Mining
+spacy>=3.7.0
+nltk>=3.8.1
+
+# Machine Learning & Data Processing
+scikit-learn>=1.4.0
+pandas>=2.2.0
+
+# Testing
+pytest>=8.0.0
