@@ -1,6 +1,7 @@
 # AI Resume Analyzer
 
 🚀 **Live Demo:** https://ai-resume-analyzer-cujazpses5wbjs2otvs5as.streamlit.app/
+
 # AI Resume Analyzer & Job Match Assistant 🎯
 
 An intelligent, explainable, and production-ready career tool built with Python, Streamlit, NLP, and Scikit-learn. It extracts candidate profiles from PDF resumes, parses job descriptions, calculates transparent mathematical match scores, performs ATS compliance audits, and recommends personalized career trajectories.
